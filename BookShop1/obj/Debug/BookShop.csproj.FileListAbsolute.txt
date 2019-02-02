@@ -1,0 +1,9 @@
+F:\DOT NET BATCH\BookShop\BookShop\bin\Debug\BookShop.exe.config
+F:\DOT NET BATCH\BookShop\BookShop\bin\Debug\BookShop.exe
+F:\DOT NET BATCH\BookShop\BookShop\bin\Debug\BookShop.pdb
+F:\DOT NET BATCH\BookShop\BookShop\obj\Debug\BookShop.BookShop.resources
+F:\DOT NET BATCH\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+F:\DOT NET BATCH\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+F:\DOT NET BATCH\BookShop\BookShop\obj\Debug\BookShop.exe
+F:\DOT NET BATCH\BookShop\BookShop\obj\Debug\BookShop.pdb
+F:\DOT NET BATCH\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
